@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(nvm *)",
+      "Bash(npm *)",
+      "Bash(wsl.exe *)"
+    ]
+  }
+}
